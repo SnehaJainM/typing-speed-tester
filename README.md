@@ -25,5 +25,3 @@ Since the Typing Speed Tester is a web-based application, it does not require an
 - `style.css`: Defines the styles and layout of the application.
 - `script.js`: Contains the JavaScript code responsible for the functionality of the Typing Speed Tester.
 
-## Credits
-This Typing Speed Tester project is originally created and maintained by [Dave Gray] and was recreated by me as part of a learning process.
