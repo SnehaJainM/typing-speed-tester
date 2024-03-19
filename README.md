@@ -17,11 +17,9 @@ To use the Typing Speed Tester:
 3. The application will calculate and display your typing speed and accuracy in real-time.
 4. To retry the typing test, click the "Try Again" button.
 
-## Installation
-Since the Typing Speed Tester is a web-based application, it does not require any installation. Simply open the `index.html` file in a web browser to start using the application.
-
 ## Code Structure
 - `index.html`: Contains the structure and layout of the web application.
 - `style.css`: Defines the styles and layout of the application.
 - `script.js`: Contains the JavaScript code responsible for the functionality of the Typing Speed Tester.
 
+ Have Fun testing your typing-speed
